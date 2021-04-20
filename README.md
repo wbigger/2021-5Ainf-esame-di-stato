@@ -17,7 +17,8 @@ Link progetto: https://github.com/realpandaus/progetto-esame-stato-20-21
 - Luciani Marco 
 - Noto Daniele
 - Secci Simone
-Linnk progetto: https://github.com/marcoluciani02/5Ainf-ProvaEsame
+
+Link progetto: https://github.com/marcoluciani02/5Ainf-ProvaEsame
 
 # Gruppo C
 - Avorio Mario (P.O.)
@@ -26,6 +27,7 @@ Linnk progetto: https://github.com/marcoluciani02/5Ainf-ProvaEsame
 - Fresia Lorenzo Maria
 - Olivetti Lorenzo
 - Riso Riccardo
+
 Link progetto: https://github.com/lorenzolivetti/gruppo-5Ainf
 
 # Gruppo D
@@ -34,4 +36,5 @@ Link progetto: https://github.com/lorenzolivetti/gruppo-5Ainf
 - Olteanu Petrus
 - Savelli Davide (P.O.) 
 - Sacco Lorenzo
+
 Link progetto: https://github.com/Lepo420/2021-5Ainf-esame-di-stato
