@@ -11,6 +11,8 @@ Progetto di gruppo per l'esame di stato 2020/21.
 
 Link progetto: https://github.com/realpandaus/progetto-esame-stato-20-21
 
+Codice meet: xrd-jajx-ikp
+
 # GRUPPO B
 - Conti Alessandro
 - Gilca Alex (P.O.) 
@@ -19,6 +21,8 @@ Link progetto: https://github.com/realpandaus/progetto-esame-stato-20-21
 - Secci Simone
 
 Link progetto: https://github.com/marcoluciani02/5Ainf-ProvaEsame
+
+Codice meet: ikd-neqq-rgn
 
 # Gruppo C
 - Avorio Mario (P.O.)
@@ -30,6 +34,7 @@ Link progetto: https://github.com/marcoluciani02/5Ainf-ProvaEsame
 
 Link progetto: https://github.com/lorenzolivetti/gruppo-5Ainf
 
+Codice meet: bsf-jpzu-azr
 # Gruppo D
 - Brachetta Davide
 - Lepore Emanuele
@@ -38,3 +43,5 @@ Link progetto: https://github.com/lorenzolivetti/gruppo-5Ainf
 - Sacco Lorenzo
 
 Link progetto: https://github.com/Lepo420/2021-5Ainf-esame-di-stato
+
+Codice meet: csk-iwtb-faw
