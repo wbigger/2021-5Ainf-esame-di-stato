@@ -11,7 +11,7 @@ Progetto di gruppo per l'esame di stato 2020/21.
 
 Link progetto: https://github.com/realpandaus/progetto-esame-stato-20-21
 
-Codice meet: xrd-jajx-ikp
+Codice: xrd-jajx-ikp
 
 # GRUPPO B
 - Conti Alessandro
@@ -22,7 +22,7 @@ Codice meet: xrd-jajx-ikp
 
 Link progetto: https://github.com/marcoluciani02/5Ainf-ProvaEsame
 
-Codice meet: ikd-neqq-rgn
+Codice: ikd-neqq-rgn
 
 # Gruppo C
 - Avorio Mario (P.O.)
@@ -34,7 +34,8 @@ Codice meet: ikd-neqq-rgn
 
 Link progetto: https://github.com/lorenzolivetti/gruppo-5Ainf
 
-Codice meet: bsf-jpzu-azr
+Codice: bsf-jpzu-azr
+
 # Gruppo D
 - Brachetta Davide
 - Lepore Emanuele
@@ -44,4 +45,4 @@ Codice meet: bsf-jpzu-azr
 
 Link progetto: https://github.com/Lepo420/2021-5Ainf-esame-di-stato
 
-Codice meet: csk-iwtb-faw
+Codice: csk-iwtb-faw
